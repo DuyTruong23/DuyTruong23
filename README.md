@@ -1,4 +1,4 @@
-![Header](https://res.cloudinary.com/jsproject/image/upload/v1708518556/kqnehyfc0un4raritaqd.png)
+![Header](https://res.cloudinary.com/jsproject/image/upload/v1708520212/etiuwkoaybj7m00rjuy1.png)
 
 #### 🎉 Updates:
 
@@ -7,6 +7,8 @@
 * ✉️  You can contact me at [truongduy.fu@gmail.com](mailto:truongduy.fu@gmail.com)
 * 🧠  I'm still learning how to code.
 * ⚡ Target: Become more perfect every day
+
+<!-- @coding_dev_ | Tilak -->
 
 ## Let's Connect ⚡
 Reach me out:  [![Linkedin](https://img.shields.io/badge/linkedin-0a66c2.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/duytruong-link) 
@@ -21,8 +23,6 @@ Reach me out:  [![Linkedin](https://img.shields.io/badge/linkedin-0a66c2.svg?log
   ### Databases & Design Tools
    ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=duytruong23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=duytruong23&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=duytruong23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=duytruong23&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 [![](https://visitcount.itsvg.in/api?id=duytruong23&icon=0&color=6)](https://visitcount.itsvg.in)
