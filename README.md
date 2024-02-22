@@ -6,7 +6,7 @@
 * 🌍  I'm based in The Earth.
 * ✉️  You can contact me at [truongduy.fu@gmail.com](mailto:truongduy.fu@gmail.com)
 * 🧠  I'm still learning how to code.
-* ⚡ Target: Become more perfect every day
+* ⚡  Target: Become more perfect every day
 
 <!-- @coding_dev_ | Tilak -->
 
